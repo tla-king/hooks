@@ -9,4 +9,4 @@
 - 必属精品
 
 [imile 官网](https://www.52imile.cn/imile-en/)
-[Get Started](#docsify)
+[Get Started](./README)
